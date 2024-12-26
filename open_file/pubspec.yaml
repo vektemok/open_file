@@ -15,7 +15,6 @@ dependencies:
   open_file_android: ^1.0.6
   open_file_web: ^0.0.4
   open_file_ios: ^1.0.3
-  open_file_mac: ^1.0.3
   open_file_windows: ^0.0.3
   open_file_linux: ^0.0.5
   open_file_platform_interface: ^1.0.3
@@ -33,10 +32,7 @@ flutter:
         default_package: open_file_ios
       web:
         default_package: open_file_web
-      macos:
-        default_package: open_file_mac
       windows:
         default_package: open_file_windows
       linux:
         default_package: open_file_linux
-
